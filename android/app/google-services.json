@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "226264003071",
+    "project_id": "altruistech-e766b",
+    "storage_bucket": "altruistech-e766b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226264003071:android:8f64daef377009bccd77ca",
+        "android_client_info": {
+          "package_name": "com.example.altruistech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226264003071-u6ade9e4rg1me0foarpdb2i8q2dtomhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.altruistech",
+            "certificate_hash": "6053c109af6360d99241e076a1a597b6d049596c"
+          }
+        },
+        {
+          "client_id": "226264003071-dian4egrt6gfl0l6f9mcbg3ndkmocjeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj9889kXHbGGF-dVs1dVGiQ5JKzvQ9M5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226264003071-dian4egrt6gfl0l6f9mcbg3ndkmocjeu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "226264003071-8tgc7p9u03om7c9ej5a4aj2itv57ci9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.altruistech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
